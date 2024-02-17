@@ -40,19 +40,20 @@
 
     <!-- Bootstrap CSS (4.1) -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-    {{ispage index || ispage 404}}
-      <link rel="stylesheet" href="./css/script_default.css">
-      <link rel="stylesheet" href="./css/site.css">
-    {{end}}
+    <link rel="stylesheet" href="/css/script_default.css">
+    <link rel="stylesheet" href="/css/site.css">
 
-    {{ispage blogposts/* || ispage tutorialposts/*}}
-      <link rel="stylesheet" href="../../css/script_default.css">
-      <link rel="stylesheet" href="../../css/site.css">
-    {{end}}
-
-    {{ispage getting_started || ispage blog || ispage governance || ispage gsoc || ispage tutorials}}
-      <link rel="stylesheet" href="../css/script_default.css">
-      <link rel="stylesheet" href="../css/site.css">
+    {{ispage publications}}
+      <link rel="stylesheet" href="/css/publications.css">
+      <style>
+        /* UMass branding */
+        a {
+          color: #881C1C
+        }
+        div.publication {
+          font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+        }
+      </style>
     {{end}}
 
     <!-- Font Awesome -->

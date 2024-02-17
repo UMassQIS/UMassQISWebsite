@@ -1,0 +1,24 @@
+/* For publications */
+
+div.publication .well{
+  padding: 0.5em;
+  font-size: 0.8em;
+  line-height: 1.1;
+}
+
+div.publication h3, div.publication p {
+  margin: 0.1em 0 0.1em 0;  
+}
+
+div.publication details {
+  font-size: 0.9em;
+  margin-top: 0.5em;
+}
+
+div.publication details[open] > summary > small {
+  display: none;
+}
+
+div.publication details[open] > *{
+  display: inline;
+}

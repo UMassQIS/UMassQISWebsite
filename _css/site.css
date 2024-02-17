@@ -6,6 +6,7 @@
   --vdark-color: color-mix(in srgb, var(--main-color) 40%, black);
   --light-color: color-mix(in srgb, var(--main-color) 80%, white);
   --vlight-color: color-mix(in srgb, var(--main-color) 40%, white);
+  --vvlight-color: color-mix(in srgb, var(--main-color) 10%, white);
 }
 
 .octicon {
@@ -29,7 +30,7 @@ body {
 }
 
 .content {
-  background: var(--vlight-color);
+  background: var(--vvlight-color);
 }
 
 .content .container {
