@@ -20,4 +20,4 @@ Hosted at [umass-qis.nonlocally.org](https://umass-qis.nonlocally.org) (password
 
 An [NSF Center for Quantum Networks](https://cqn-erc.org/) and UMass Amherst seminar on Quantum Network Science organized by Prof. Don Towsley and Nitish Panigrahy.
 
-Hosted at [umass-qnet.nonlocally.org](https://umass-qnet.nonlocally.org) (publically available)
+Hosted at [umass-qnet.nonlocally.org](https://umass-qnet.nonlocally.org) (publicly available)

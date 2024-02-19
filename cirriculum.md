@@ -32,7 +32,7 @@ A graduate level version of 490Q.
 
 Previous names include 690Q and 590Q.
 
-Initially developped by Don Towsley, now led by Stefan Krastanov.
+Initially developed by Don Towsley, now led by Stefan Krastanov.
 
 ~~~
 <h3><a href="https://people.cs.umass.edu/~frozpedek/compsci_590ab/">COMPSCI 590AB: Quantum Cryptography and Communication</a></h3>
