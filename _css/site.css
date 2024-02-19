@@ -6,7 +6,30 @@
   --vdark-color: color-mix(in srgb, var(--main-color) 40%, black);
   --light-color: color-mix(in srgb, var(--main-color) 80%, white);
   --vlight-color: color-mix(in srgb, var(--main-color) 40%, white);
-  --vvlight-color: color-mix(in srgb, var(--main-color) 10%, white);
+}
+
+@media only screen and (min-width: 785px) {
+  #wordmark {
+    background: url(//www.umass.edu/static/branding/images/UMassAmherst_longform-reversed.svg);
+  }
+}
+
+@media only screen and (max-width: 785px) {
+  #wordmark {
+    background: url(//www.umass.edu/brand/sites/all/themes/brand/css/images/wordmark.svg);
+  }
+}
+
+#wordmark {
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 30px;
+  width: 411px;
+  color: transparent;
+  background-color: transparent;
+  white-space: nowrap;
+  display: inline-block;
+  margin: 8px;
 }
 
 .octicon {
@@ -16,9 +39,13 @@
 }
 
 body {
-  background: var(--dark-color);
+  background: var(--main-color);
   font-family: Lato, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   line-height: 1.7
+}
+
+#secondarynavbar {
+  background-color: white;
 }
 
 .logo {
@@ -30,7 +57,7 @@ body {
 }
 
 .content {
-  background: var(--vvlight-color);
+  background: white;
 }
 
 .content .container {
@@ -92,7 +119,7 @@ body {
 .container img {
   max-width: 100%;
 }
-.container h1, .container h2, .container h3, .container h4, .container h5, .container p, .container blockquote, .container .hljs, .container ul :not(.navbar-nav) {
+.container h1, .container h2, .container h3, .container h4, .container h5, .container p, .container blockquote, .container .hljs, .container ul :not(.navbar-nav), .container iframe {
   max-width: 650px;
   margin-left: auto;
   margin-right: auto;
@@ -289,4 +316,8 @@ pre code.hljs {
 
 .tight-list p {
   margin-bottom: 0;
+}
+
+iframe {
+  width: 100%;
 }
