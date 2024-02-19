@@ -2,7 +2,7 @@
 author = "UMass Amherst"
 mintoclevel = 2
 
-website_title = "Quantum Information Science @ UMass Amherst"
+website_title = "Quantum Information Science : UMass Amherst"
 website_descr = "A cross-departamental institute including researchers from Computer Science, Engineering, and Physics."
 website_url = "https://quantumdraft.umass-amherst.org"
 website_img = "/assets/images/logo-umass.png"
@@ -18,7 +18,7 @@ website_footer = """
 ignore = ["CONTRIBUTING.md"]
 
 prepath     = get(ENV, "PREVIEW_FRANKLIN_PREPATH", ".")
-website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "qnumerics.org")
+website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "")
 +++
 
 \newcommand{\totop}{~~~<p><a href="#top">⇧ back to top</a></p>~~~}
