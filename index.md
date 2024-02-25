@@ -39,9 +39,9 @@
       @@
       @@col-md,feature
         ~~~
-        <h5>Eng group (some scientist)</h5>
+        <h5>Superconducting Circuit Devices<br><a href="https://websites.umass.edu/wangc/">Chen Wang, Physics</a></h5>
         ~~~
-        some work by them
+        We work in the field of superconducting circuit devices for quantum information processing, with a focus on improving the performance of superconducting quantum bits (qubits) on both the physical and the (error-corrected) logical level. 
       @@
     @@
   @@
