@@ -1,26 +1,28 @@
 +++
-title = "Cirriculum"
+title = "Curriculum"
 +++
 
 ~~~
-<h1>Cirriculum</h1>
+<h1>Curriculum</h1>
 ~~~
 
-UMass Amherst follows typical American class numbering conventions: 100-400 for undergraduate classes roughly corresponding to each of the fourth years; 500 for MS classes with attendance from undergraduates and PhD student; 600 and above for PhD classes with attendance from MS students and exceptional undergraduates.
+UMass Amherst follows typical American course-numbering conventions: 100-400 for undergraduate classes roughly corresponding to each of the four years; 500 for MS classes with attendance from undergraduates and PhD student; 600 and above for PhD classes with attendance from MS students and exceptional undergraduates.
 
 ~~~
 <h3><a href="https://lab.krastanov.org/undergrad-qis/">COMPSCI 490Q Quantum Information Science</a></h3>
 ~~~
 
-Wide introduction to quantum information science and quantum computation, leaning towards the theoretical information science interpretation of the field.
+Wide introduction to quantum information science and quantum computation, leaning towards the theoretical information science interpretation of the field. Topics include the axiomatic approach to quantum information theory, basic quantum communication pritives, foundational quantum algorithms, and introduction to error correction.
 
 Developed by Stefan Krastanov.
 
 ~~~
-<h3>ENG 550 Introduction to Quantum Computing</h3>
+<h3>ECE 550/650 Introduction to Quantum Computing</h3>
 ~~~
 
-Wide introduction to quantum information science and quantum computation, leaning towards the engineering and practical programming side of the field.
+Quantum Optics → Qubits → Quantum Algorithms
+
+Introduction to quantum computing starts with a basis in quantum optics using the Mach Zehnder Interferometer as a foundation. We then survey various qubit technology modalities such as trapped ions, photonics and Transmons as well as sources of decoherence for each. In weekly Python labs students program simulations of single qubit operations such as Rabi and Ramsey pulse sequences as well as two qubit manipulations for Bell state generation to construct quantum circuits from fundamental quantum mechanical interactions. Finally, these labs will culminate in programming simulations of quantum algorithms by Grover and Shor using quantum computing Python libraries such as Qiskit and QuTiP and executing them on the cloud with real quantum computers.
 
 Developed by Robert Niffenegger.
 
@@ -32,7 +34,7 @@ A graduate level version of 490Q.
 
 Previous names include 690Q and 590Q.
 
-Initially developed by Don Towsley, now led by Stefan Krastanov.
+Initially developed by Don Towsley, now redesigned and led by Stefan Krastanov.
 
 ~~~
 <h3><a href="https://people.cs.umass.edu/~frozpedek/compsci_590ab/">COMPSCI 590AB: Quantum Cryptography and Communication</a></h3>
