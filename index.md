@@ -33,9 +33,9 @@
       @@
       @@col-md,feature
         ~~~
-        <h5>CS group (some scientist)</h5>
+        <h5>Trapped Ions and Photonics<br><a href="https://websites.umass.edu/rniffenegger/">Robert Niffenegger, Engineering</a></h5>
         ~~~
-        some work by them
+        The UMass+ Trapped Ions and Photonics lab develops integrated technologies like photonics for trapped ion QPUs. Developing trapped ion QPUs with integrated photonics may enable the next generation of quantum hardware towards large scale quantum computers and portable operation of quantum sensors like optical clocks.
       @@
       @@col-md,feature
         ~~~
