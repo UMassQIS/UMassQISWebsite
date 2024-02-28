@@ -1,9 +1,9 @@
 +++
-title = "Cirriculum"
+title = "Curriculum"
 +++
 
 ~~~
-<h1>Cirriculum</h1>
+<h1>Curriculum</h1>
 ~~~
 
 UMass Amherst follows typical American course-numbering conventions: 100-400 for undergraduate classes roughly corresponding to each of the four years; 500 for MS classes with attendance from undergraduates and PhD student; 600 and above for PhD classes with attendance from MS students and exceptional undergraduates.
