@@ -42,11 +42,17 @@
 
     <!-- Bootstrap CSS (4.1) -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-    <link rel="stylesheet" href="/css/script_default.css">
-    <link rel="stylesheet" href="/css/site.css">
+    
+    {{ispage index}}
+      <link rel="stylesheet" href="./css/script_default.css">
+      <link rel="stylesheet" href="./css/site.css">
+    {{else}}
+      <link rel="stylesheet" href="../css/script_default.css">
+      <link rel="stylesheet" href="../css/site.css">
+    {{end}}
 
     {{ispage publications}}
-      <link rel="stylesheet" href="/css/publications.css">
+      <link rel="stylesheet" href="../css/publications.css">
       <style>
         /* UMass branding */
         a {

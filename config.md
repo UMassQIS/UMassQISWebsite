@@ -4,7 +4,7 @@ mintoclevel = 2
 
 website_title = "Quantum Information Science : UMass Amherst"
 website_descr = "A cross-departamental institute including researchers from Computer Science, Engineering, and Physics."
-website_url = "https://quantumdraft.umass-amherst.org"
+website_url = "https://umass.edu/quantum/"
 website_img = "/assets/images/logo-umass.png"
 website_footer = """
         University of Massachusetts Amherst |
