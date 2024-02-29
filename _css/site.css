@@ -137,17 +137,17 @@ body {
   letter-spacing: 1px
 }
 
-p a:hover, p a:visited:hover {
+p a:hover, p a:visited:hover, h3 a:hover, h3 a:visited:hover, h4 a:hover, h4 a:visited:hover, h5 a:hover, h5 a:visited:hover{
   color: var(--dark-color);
   text-decoration: none
 }
 
-p a, p a:visited {
+p a, p a:visited, h3 a, h3 a:visited, h4 a, h4 a:visited, h5 a, h5 a:visited{
   color: var(--main-color);
   border-bottom: 2px solid var(--vlight-color);
 }
 
-p a:hover {
+p a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
   border-bottom: 2px solid var(--vlight-color);
 }
 
