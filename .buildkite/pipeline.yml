@@ -1,4 +1,3 @@
 steps:
   - label: "Deploy through Buildkite on UMass server"
-    command:
-      - pwd
+    command: echo "check out gh-pages" && pwd && git checkout gh-pages && scp -i /id_ed25519_private_key -r . www-quantum@dev.www.umass.edu:/var/www/dev.www.umass.edu/quantum/active
