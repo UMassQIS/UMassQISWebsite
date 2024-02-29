@@ -52,10 +52,8 @@
         One focus of the group is to develop efficient entanglement distribution algorithms, often inspired both by analytical models of quantum network architectures, as well as techniques found in classical networking literature. In general, the group is interested in addressing the many challenges pertaining to distributed quantum systems, as well as seeking new quantum-enabled possibilities and applications.git 
       @@
       @@col-md,feature
-
       @@
       @@col-md,feature
-
       @@
     @@
   @@
