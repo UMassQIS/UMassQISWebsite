@@ -102,5 +102,5 @@ function hfun_arxiv_bibliography_krastanov()
 end
 
 function hfun_arxiv_bibliography_amherst()
-    arxiv_bibliography(["towsley_d_1", "krastanov_s_1", "rozpedek_f_1", "niffenegger_r_1", "vasseur_r_1"])
+    arxiv_bibliography(["towsley_d_1", "krastanov_s_1", "rozpedek_f_1", "niffenegger_r_1", "vasseur_r_1", "vardoyan_g_1"])
 end
