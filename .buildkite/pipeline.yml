@@ -2,6 +2,5 @@ steps:
   - label: "Deploy through Buildkite on UMass server"
     command:
       - echo "check out gh-pages"
-      - echo $(pwd)
       - git checkout gh-pages
-      - scp -i /id_ed25519_private_key -o "StrictHostKeyChecking no" -r . www-quantum@dev.www.umass.edu:/var/www/dev.www.umass.edu/quantum/active
+      - scp -i /id_ed25519_private_key -o "StrictHostKeyChecking no" -r $(pwd) www-quantum@dev.www.umass.edu:/var/www/dev.www.umass.edu/quantum/active
