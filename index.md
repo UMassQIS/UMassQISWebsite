@@ -44,6 +44,20 @@
         We work in the field of superconducting circuit devices for quantum information processing, with a focus on improving the performance of superconducting quantum bits (qubits) on both the physical and the (error-corrected) logical level. 
       @@
     @@
+    @@row
+      @@col-md,feature
+        ~~~
+        <h5>Quantum Network Control<br><a href="https://qutech.nl/lab/vardoyangroup/">Gayane Vardoyan, CS</a></h5>
+        ~~~
+        One focus of the group is to develop efficient entanglement distribution algorithms, often inspired both by analytical models of quantum network architectures, as well as techniques found in classical networking literature. In general, the group is interested in addressing the many challenges pertaining to distributed quantum systems, as well as seeking new quantum-enabled possibilities and applications.
+      @@
+      @@col-md,feature
+
+      @@
+      @@col-md,feature
+
+      @@
+    @@
   @@
 @@
 
