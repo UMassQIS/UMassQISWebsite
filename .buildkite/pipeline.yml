@@ -4,4 +4,4 @@ steps:
       - echo "check out gh-pages"
       - git checkout gh-pages
       - ssh -i /id_ed25519_private_key -o "StrictHostKeyChecking no" www-quantum@dev.www.umass.edu rm -rf /var/www/dev.www.umass.edu/quantum/active/*
-#      - scp -i /id_ed25519_private_key -o "StrictHostKeyChecking no" -r $(pwd)/* www-quantum@dev.www.umass.edu:/var/www/dev.www.umass.edu/quantum/active
+      - scp -i /id_ed25519_private_key -o "StrictHostKeyChecking no" -r $(pwd)/* www-quantum@dev.www.umass.edu:/var/www/dev.www.umass.edu/quantum/active
