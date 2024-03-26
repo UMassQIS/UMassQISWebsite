@@ -53,8 +53,16 @@
         One focus of the group is to develop efficient entanglement distribution algorithms, often inspired both by analytical models of quantum network architectures, as well as techniques found in classical networking literature. In general, the group is interested in addressing the many challenges pertaining to distributed quantum systems, as well as seeking new quantum-enabled possibilities and applications.git 
       @@
       @@col-md,feature
+        ~~~
+        <h5>Optical Quantum Information Science and Technology<br><a href="https://www.quantuminformationsystemslab.org">Rajveer Nehra, Engineering</a></h5>
+        ~~~
+        We are a multidisciplinary team of physicists, engineers, and computer scientists working on the experimental and theoretical aspects of quantum information science and technology.  Our research aims at the scalable implementation of quantum technologies at room temperature. We use quantum optics, quantum information science, and nanophotonic engineering tools to develop quantum information systems and devices for applications in computation, communication, sensing, and metrology.
       @@
       @@col-md,feature
+        ~~~
+        <h5>Quantum Repeater Architecture<br><a href="https://sites.google.com/view/filiprozpedek">Filip Rozpedek, CS</a></h5>
+        ~~~
+        We work on developing novel ways of transferring quantum information over long distances and generating long distance entanglement. Our work investigates new strategies of utilizing quantum error correction in quantum repeater architectures. In particular we are interested in designing hybrid repeater schemes that combine resource-expensive error correction with more near-term techniques of remote entanglement generation, which have already been demonstrated in recent proof-of-principle experiments.
       @@
     @@
   @@
