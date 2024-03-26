@@ -1,4 +1,4 @@
-<!-- Header -->
+<!--
 @@jumbotron,jumbotron-fluid,no-pad
   @@container
     ~~~
@@ -13,6 +13,7 @@
     @@
   @@
 @@
+-->
 
 @@features
   @@container

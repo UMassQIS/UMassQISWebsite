@@ -19,6 +19,8 @@ ignore = ["CONTRIBUTING.md"]
 
 prepath     = get(ENV, "PREVIEW_FRANKLIN_PREPATH", ".")
 website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "")
+
+current_year = string(year(now()))
 +++
 
 \newcommand{\totop}{~~~<p><a href="#top">⇧ back to top</a></p>~~~}
