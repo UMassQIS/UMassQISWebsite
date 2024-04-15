@@ -139,7 +139,7 @@ body {
   margin-right: auto;
 }
 .container p {
-  text-align:justify;
+  text-align: left;
 }
 .container p.p-image {
   max-width: 100%;

@@ -81,17 +81,17 @@
     @@row
       @@col-md
         ~~~
-        <a href="https://cqn-erc.org/" target="_blank"><img src="./assets/friends/cqn-logo.png" style="background-color:black; max-height:80pt;"></a>
+        <a href="https://cqn-erc.org/" target="_blank"><img src="./assets/friends/cqn-logo-white.png" style="max-height:80pt;" alt="The CQN logo"></a>
         ~~~
       @@
       @@col-md
         ~~~
-        <a href="https://www.bnl.gov/quantumcenter/" target="_blank"><img src="./assets/friends/c2qa-logo.png" style="background-color:black; max-height:80pt;"></a>
+        <a href="https://www.bnl.gov/quantumcenter/" target="_blank"><img src="./assets/friends/c2qa-logo.png" style="background-color:black; max-height:80pt;" alt=""the C2QA logo></a>
         ~~~
       @@
       @@col-md
         ~~~
-        <a href="https://www.nsf.gov/" target="_blank"><img src="./assets/friends/nsf-logo.png" style="max-height:80pt;"></a>
+        <a href="https://www.nsf.gov/" target="_blank"><img src="./assets/friends/nsf-logo.png" style="max-height:80pt;" alt="The NSF logo"></a>
         ~~~
       @@
     @@

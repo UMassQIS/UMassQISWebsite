@@ -82,7 +82,7 @@ function arxiv_bibliography(arxiv_ids)
         block ="""
         <div class="publication">
         <div class="well">
-          <h3><a href="$(firstcon(e["id"]))">$(fixup(firstcon(e["title"])))</a></h3>
+          <h3><a href="https://$(firstcon(e["id"]))">$(fixup(firstcon(e["title"])))</a></h3>
           <p><em>$(join(authors, ", "))</em></p>
           <p><strong>$(journalref)</strong></p>
           <details>
@@ -102,5 +102,6 @@ function hfun_arxiv_bibliography_krastanov()
 end
 
 function hfun_arxiv_bibliography_amherst()
+#    return ""
     arxiv_bibliography(["towsley_d_1", "krastanov_s_1", "rozpedek_f_1", "niffenegger_r_1", "vasseur_r_1", "vardoyan_g_1"])
 end
