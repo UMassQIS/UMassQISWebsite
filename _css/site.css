@@ -193,6 +193,7 @@ p a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
   margin-top: 1rem;
   margin-bottom: 0.5rem;
   color: white;
+  padding: 0 30px 1rem;
 }
 
 .footer p {
@@ -201,7 +202,7 @@ p a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
 
 .footer a, .footer a:hover, .footer a:visited, .footer a:visited:hover {
   color: white;
-  font-weight: bold;
+  /*font-weight: bold;*/
 }
 
 @media (max-width: 768px) {
