@@ -10,6 +10,10 @@ div.publication h3, div.publication p {
   margin: 0.1em 0 0.1em 0;  
 }
 
+div.publication h3 {
+  line-height: 1.5;
+}
+
 div.publication details {
   font-size: 0.9em;
   margin-top: 0.5em;
