@@ -82,7 +82,7 @@ function arxiv_bibliography(arxiv_ids)
         block ="""
         <div class="publication">
         <div class="well">
-          <h3><a href="https://$(firstcon(e["id"]))">$(fixup(firstcon(e["title"])))</a></h3>
+          <h3><a href="$(firstcon(e["id"]))">$(fixup(firstcon(e["title"])))</a></h3>
           <p><em>$(join(authors, ", "))</em></p>
           <p><strong>$(journalref)</strong></p>
           <details>

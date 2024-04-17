@@ -17,12 +17,12 @@ The Manning College of Information and Computer Sciences (CICS) is located in **
 ~~~
 <h4>Computer Science<br> Building</h4>
 <p>140 Governors Drive<br> Amherst, MA 01003</p>
-<iframe allowfullscreen="" frameborder="0" height="350" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCELNLNyT_Ecae4RBPQoJnn2ty9C-rhUik&amp;q=140+Governors+Drive+Amherst+MA+01003"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="350" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCELNLNyT_Ecae4RBPQoJnn2ty9C-rhUik&amp;q=140+Governors+Drive+Amherst+MA+01003">Your browser does not permit iframes, thus we can not display the Google Map directions to the CS building.</iframe>
 
 <h4>Lederle Graduate<br> Research Center Lowrise</h4>
 <p>740 North Pleasant Street<br>
 Amherst, MA 01003&nbsp;</p>
-<iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2777.177280036488!2d-72.52817965127515!3d42.39433552781129!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e6d27a222d2937%3A0x345f2fbc4e4230d!2s740+N+Pleasant+St%2C+Amherst%2C+MA+01003!5e0!3m2!1sen!2sus!4v1562617347173!5m2!1sen!2sus"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="350" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2777.177280036488!2d-72.52817965127515!3d42.39433552781129!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e6d27a222d2937%3A0x345f2fbc4e4230d!2s740+N+Pleasant+St%2C+Amherst%2C+MA+01003!5e0!3m2!1sen!2sus!4v1562617347173!5m2!1sen!2sus">Your browser does not permit iframes, thus we can not display the Google Map directions LGRC.</iframe>
 ~~~
 
 ~~~
