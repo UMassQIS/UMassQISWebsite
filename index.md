@@ -65,6 +65,18 @@
         We work on developing novel ways of transferring quantum information over long distances and generating long distance entanglement. Our work investigates new strategies of utilizing quantum error correction in quantum repeater architectures. In particular we are interested in designing hybrid repeater schemes that combine resource-expensive error correction with more near-term techniques of remote entanglement generation, which have already been demonstrated in recent proof-of-principle experiments.
       @@
     @@
+    @@row
+      @@col-md,feature
+        ~~~
+        <h5>Non-equilibrium quantum dynamics<br><a href="https://blogs.umass.edu/rvasseur/group/">Romain Vasseur, Physics</a></h5>
+        ~~~
+        One focus of the group is to develop efficient entanglement distribution algorithms, often inspired both by analytical models of quantum network architectures, as well as techniques found in classical networking literature. In general, the group is interested in addressing the many challenges pertaining to distributed quantum systems, as well as seeking new quantum-enabled possibilities and applications.git 
+      @@
+      @@col-md,feature
+      @@
+      @@col-md,feature
+      @@
+    @@
   @@
 @@
 
