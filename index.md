@@ -86,7 +86,7 @@
       @@
       @@col-md
         ~~~
-        <a href="https://www.bnl.gov/quantumcenter/" target="_blank"><img src="./assets/friends/c2qa-logo.png" style="background-color:black; max-height:80pt;" alt=""the C2QA logo></a>
+        <a href="https://www.bnl.gov/quantumcenter/" target="_blank"><img src="./assets/friends/c2qa-logo.png" style="background-color:black; max-height:80pt;" alt="the C2QA logo"></a>
         ~~~
       @@
       @@col-md
