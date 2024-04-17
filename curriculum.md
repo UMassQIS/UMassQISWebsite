@@ -17,7 +17,7 @@ Wide introduction to quantum information science and quantum computation, leanin
 Developed by Stefan Krastanov.
 
 ~~~
-<h3>ECE 550/650 Introduction to Quantum Computing</h3>
+<h3><a href=" https://www.umass.edu/engineering/class/12219/introduction-quantum-computing">ECE 550/650 Introduction to Quantum Computing</a></h3>
 ~~~
 
 Quantum Optics → Qubits → Quantum Algorithms
