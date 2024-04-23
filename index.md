@@ -50,7 +50,7 @@
         ~~~
         <h5>Quantum Network Control<br><a href="https://qutech.nl/lab/vardoyangroup/">Gayane Vardoyan, CS</a></h5>
         ~~~
-        One focus of the group is to develop efficient entanglement distribution algorithms, often inspired both by analytical models of quantum network architectures, as well as techniques found in classical networking literature. In general, the group is interested in addressing the many challenges pertaining to distributed quantum systems, as well as seeking new quantum-enabled possibilities and applications.git 
+        One focus of the group is to develop efficient entanglement distribution algorithms, often inspired both by analytical models of quantum network architectures, as well as techniques found in classical networking literature. In general, the group is interested in addressing the many challenges pertaining to distributed quantum systems, as well as seeking new quantum-enabled possibilities and applications. 
       @@
       @@col-md,feature
         ~~~
@@ -70,7 +70,7 @@
         ~~~
         <h5>Non-equilibrium quantum dynamics<br><a href="https://blogs.umass.edu/rvasseur/group/">Romain Vasseur, Physics</a></h5>
         ~~~
-        One focus of the group is to develop efficient entanglement distribution algorithms, often inspired both by analytical models of quantum network architectures, as well as techniques found in classical networking literature. In general, the group is interested in addressing the many challenges pertaining to distributed quantum systems, as well as seeking new quantum-enabled possibilities and applications.git 
+        We work on various aspects of the dynamics of quantum information in many-body quantum systems. Topics of interest include the study of tensor networks and random quantum circuits through mappings onto classical statistical mechanics models. We are especially interested in questions related to the complexity of tensor network contractions and monitored dynamics, and in designing decoders and classifiers that reveal how much information can be extracted from measuring a quantum system.
       @@
       @@col-md,feature
       @@
