@@ -73,6 +73,10 @@
         We work on various aspects of the dynamics of quantum information in many-body quantum systems. Topics of interest include the study of tensor networks and random quantum circuits through mappings onto classical statistical mechanics models. We are especially interested in questions related to the complexity of tensor network contractions and monitored dynamics, and in designing decoders and classifiers that reveal how much information can be extracted from measuring a quantum system.
       @@
       @@col-md,feature
+        ~~~
+        <h5>Advanced Classical & Quantum Information Research (ACQuIRE) Lab<br><a href="https://acquire.cs.umass.edu/">Don Towsley, CS</a></h5>
+        ~~~
+        We work on various aspects of the dynamics of quantum information in many-body quantum systems. Topics of interest include the study of tensor networks and random quantum circuits through mappings onto classical statistical mechanics models. We are especially interested in questions related to the complexity of tensor network contractions and monitored dynamics, and in designing decoders and classifiers that reveal how much information can be extracted from measuring a quantum system.
       @@
       @@col-md,feature
       @@
@@ -103,10 +107,26 @@
       @@
       @@col-md
         ~~~
-        <a href="https://www.nsf.gov/" target="_blank"><img src="./assets/friends/nsf-logo.png" style="max-height:80pt;" alt="The NSF logo"></a>
+        <a href="https://www.nsf.gov/" target="_blank"><img src="./assets/friends/nsf-logo.png" style="max-height:100pt;" alt="The NSF logo"></a>
         ~~~
       @@
     @@
-
+    @@row
+      @@col-md
+        ~~~
+        <a href="https://arl.devcom.army.mil/" target="_blank"><img src="./assets/friends/devcom-arl-logo.png" style="max-height:80pt;" alt="The Devcom ARL logo"></a>
+        ~~~
+      @@
+      @@col-md
+        ~~~
+        <a href="https://www.darpa.mil/" target="_blank"><img src="./assets/friends/darpa-logo.png" style="max-height:80pt;" alt="the DARPA logo"></a>
+        ~~~
+      @@
+      @@col-md
+        ~~~
+        <a href="https://www.energy.gov/" target="_blank"><img src="./assets/friends/doe-logo.png" style="max-height:100pt;" alt="The DOE logo"></a>
+        ~~~
+      @@
+    @@
   @@
 @@
