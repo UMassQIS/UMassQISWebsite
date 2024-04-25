@@ -6,7 +6,9 @@ title = "Workshops, Schools, and Conferences"
 <h1>Workshops, Schools, and Conferences</h1>
 ~~~
 
-### [August 2024: Summer School on Numerical Methods in Quantum Information Science](https://qnumerics.org)
+~~~
+<h3><a href="https://qnumerics.org">August 2024: Summer School on Numerical Methods in Quantum Information Science</a></h3>
+~~~
 
 A summer school on Numerical Methods in Quantum Information Science, taking place in Boston (August 12th-18th).
 
@@ -18,14 +20,17 @@ The school is aimed at graduate and professional level researchers in QIS, howev
 
 Organized by Stefan Krastanov.
 
-### [April 2024: Quantum Information Science and Technology Workshop](../2024-qist-workshop)
-
+~~~
+<h3><a href="../2024-qist-workshop">April 2024: Quantum Information Science and Technology Workshop</a></h3>
+~~~
 
 The QIST workshop is designed to bring together a diverse group of researchers working on various aspects of quantum information spanning across computation, communication, precision measurements, and sensing applications.  
 
 Organized by Rajveer Nehra.
 
-### January 2024: UMass/Yale Workshop on Quantum Networks
+~~~
+<h3><a href="#2024umassyale" id="2024umassyale">January 2024: UMass/Yale Workshop on Quantum Networks</a></h3>
+~~~
 
 A day-long workshop on research in the many layers of the quantum networking technology stack.
 
