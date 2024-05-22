@@ -76,7 +76,7 @@
         ~~~
         <h5>Advanced Classical & Quantum Information Research (ACQuIRE) Lab<br><a href="https://acquire.cs.umass.edu/">Don Towsley, CS</a></h5>
         ~~~
-        We work on various aspects of the dynamics of quantum information in many-body quantum systems. Topics of interest include the study of tensor networks and random quantum circuits through mappings onto classical statistical mechanics models. We are especially interested in questions related to the complexity of tensor network contractions and monitored dynamics, and in designing decoders and classifiers that reveal how much information can be extracted from measuring a quantum system.
+        Our goal is to ACQuIRE the knowledge needed to design, analyze and manage new quantum information systems.  This includes new network architectures, protocols, and algorithms for generation, distribution, and storage of multi-partite entanglement in the presence of noise that will be useful for quantum security, sensing, and computing applications. Other research topics include distributed quantum computing, performance evaluation,  and quantum network tomography. Last, we work with experimentalists at UMass and in the NSF funded [Center for Quantum Networks](https://cqn-erc.org/).
       @@
       @@col-md,feature
       @@
