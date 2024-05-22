@@ -5,9 +5,12 @@ steps:
       - git checkout gh-pages
       - git pull
       - ls -l
-      - ssh -i /id_ed25519_private_key -o "StrictHostKeyChecking no" www-quantum@dev.www.umass.edu rm -rf /var/www/dev.www.umass.edu/quantum/active/*
-      - scp -i /id_ed25519_private_key -o "StrictHostKeyChecking no" -r $(pwd)/* www-quantum@dev.www.umass.edu:/var/www/dev.www.umass.edu/quantum/active
-      - ssh -i /id_ed25519_private_key -o "StrictHostKeyChecking no" www-quantum@dev.www.umass.edu ls -l /var/www/dev.www.umass.edu/quantum/active/
+#      - ssh -i /id_ed25519_private_key -o "StrictHostKeyChecking no" www-quantum@dev.www.umass.edu rm -rf /var/www/dev.www.umass.edu/quantum/active/*
+#      - scp -i /id_ed25519_private_key -o "StrictHostKeyChecking no" -r $(pwd)/* www-quantum@dev.www.umass.edu:/var/www/dev.www.umass.edu/quantum/active
+#      - ssh -i /id_ed25519_private_key -o "StrictHostKeyChecking no" www-quantum@dev.www.umass.edu ls -l /var/www/dev.www.umass.edu/quantum/active/
+      - ssh -i /id_ed25519_private_key -o "StrictHostKeyChecking no" www-quantum@prod.www.umass.edu rm -rf /var/www/www.umass.edu/quantum/standby/*
+      - scp -i /id_ed25519_private_key -o "StrictHostKeyChecking no" -r $(pwd)/* www-quantum@prod.www.umass.edu:/var/www/www.umass.edu/quantum/standby
+      - ssh -i /id_ed25519_private_key -o "StrictHostKeyChecking no" www-quantum@prod.www.umass.edu ls -l /var/www/www.umass.edu/quantum/standby/
       - ssh -i /id_ed25519_private_key -o "StrictHostKeyChecking no" www-quantum@prod.www.umass.edu rm -rf /var/www/www.umass.edu/quantum/active/*
       - scp -i /id_ed25519_private_key -o "StrictHostKeyChecking no" -r $(pwd)/* www-quantum@prod.www.umass.edu:/var/www/www.umass.edu/quantum/active
       - ssh -i /id_ed25519_private_key -o "StrictHostKeyChecking no" www-quantum@prod.www.umass.edu ls -l /var/www/www.umass.edu/quantum/active/
