@@ -7,6 +7,14 @@ title = "Workshops, Schools, and Conferences"
 ~~~
 
 ~~~
+<h3><a href="../2025-quantumsavory-workshop">June 2025: Quantum Networking Workshop: Modeling, Applications, Design</a></h3>
+~~~
+
+A two-day workshop on the many layers of the quantum networking technology stack, chiefly aiming to shape the next year of collaboration between UMass, Yale, Argonne National Laborary, and colleagues within the Center for Quantum Networks.
+
+This will also be the first gathering of external advisors for the [QuantumSavory](https://github.com/QuantumSavory/QuantumSavory.jl/) modeling toolkit.
+
+~~~
 <h3><a href="https://qnumerics.org">August 2024: Summer School on Numerical Methods in Quantum Information Science</a></h3>
 ~~~
 
