@@ -4,7 +4,7 @@ title = "Quantum Networking Workshop: Modeling, Applications, Design"
 
 <h1>Quantum Networking Workshop: Modeling, Applications, Design</h1>
 
-**Location:** LGRC
+**Location:** LGRC room A104 (Makerspace classroom)
 
 **Time:** June 2nd and June 3rd
 
