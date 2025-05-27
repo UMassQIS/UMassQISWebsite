@@ -12,7 +12,7 @@ A two-day workshop on the many layers of the quantum networking technology stack
 
 This will also be the first gathering of external advisors for the [QuantumSavory](https://github.com/QuantumSavory/QuantumSavory.jl/) modeling toolkit.
 
-Below is the detailed workshop schedule. Click to expand each day:
+Below is the (tentative) detailed workshop schedule. Click to expand each day:
 
 
 <details>
