@@ -3,6 +3,43 @@ title = "Quantum Networking Workshop: Modeling, Applications, Design"
 +++
 
 ~~~
+<style>
+table {
+  width: 90%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-family: sans-serif;
+  font-size: 0.95em;
+  background-color: #ffffff;
+  color: #000000;
+  box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+  padding: 0.75em 1em;
+  border: 1px solid #ddd;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background-color: #881c1c; /* UMass red */
+  color: white;
+  font-weight: bold;
+}
+
+tr:nth-child(even) td {
+  background-color: #f9f9f9;
+}
+
+tr:hover td {
+  background-color: #f0f0f0;
+}
+</style>
+
+~~~
+
+~~~
 <h1>Quantum Networking Workshop: Modeling, Applications, Design</h1>
 ~~~
 
@@ -43,7 +80,7 @@ Below is the detailed workshop schedule. Click to expand each day:
 
 <details>
 <summary>Bio – Panagiotis Promponas (Throughput region of a quantum switch)</summary>
-<p>Paqnagiotis (Panos) is a fifth year PhD student at Yale University working on modeling and optimization of entanglement distribution networks. His research focuses on developing efficient protocols and architectures for quantum communication systems, with an emphasis on scalability and real-world feasibility.</p>
+<p>Panagiotis (Panos) is a fifth year PhD student at Yale University working on modeling and optimization of entanglement distribution networks. His research focuses on developing efficient protocols and architectures for quantum communication systems, with an emphasis on scalability and real-world feasibility.</p>
 </details>
 
 <details>
