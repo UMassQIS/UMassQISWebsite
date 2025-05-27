@@ -20,17 +20,17 @@ Below is the detailed workshop schedule. Click to expand each day:
 
 | Time | Event | Speaker | Affiliation |
 |------|--------|---------|-------------|
-| 10:00:00–10:10:00 | Workshop Kickoff | **Stefan Krastanov** | UMass |
-| 10:10:00–11:00:00 | Quantum Network Utility Maximization | **Leonardo Bacciottini** | UMass |
-| 11:00:00–11:40:00 | Throughput region of a quantum switch: comparative analysis under different regimes | **Panagiotis Promponas** | Yale |
-| 11:40:00–12:30:00 | Learning the best links and paths in quantum networks | **Xuchuang Wang** | UMass |
-| 12:30:00–13:30:00 | Lunch |  |  |
-| 13:30:00–14:20:00 | A brief introduction to Sequence | **Caitao Zhan** | Argonne |
-| 14:20:00–15:10:00 | Modeling with QuantumSavory | **Stefan Krastanov** | UMass |
-| 15:10:00–15:20:00 | Break |  |  |
-| 15:20:00–04:10:00 | From GHZ to Graph states: A Group-Based Approach to Entanglement Preservation | **Mingyuan Wang** | UMass |
-| 16:10:00–17:00:00 | Piecewise resource-efficient entanglement distribution using a quantum switch | **Kenneth Goodenough** | UMass |
-| 17:00:00–18:00:00 | Group chat rooms |  |  |
+| 10:00–10:10| Workshop Kickoff | **[Stefan Krastanov](https://www.cics.umass.edu/about/directory/stefan-krastanov)** | UMass |
+| 10:10–11:00| Quantum Network Utility Maximization | **Leonardo Bacciottini** | UMass |
+| 11:00–11:40| Throughput region of a quantum switch: comparative analysis under different regimes | **Panagiotis Promponas** | Yale |
+| 11:40–12:30| Learning the best links and paths in quantum networks | **Xuchuang Wang** | UMass |
+| 12:30–1:30| Lunch |  |  |
+| 1:30–2:20| A brief introduction to Sequence | **Caitao Zhan** | Argonne |
+| 2:20–3:10| Modeling with QuantumSavory | **[Stefan Krastanov](https://www.cics.umass.edu/about/directory/stefan-krastanov)** | UMass |
+| 3:10–3:20| Break |  |  |
+| 3:20–4:10| From GHZ to Graph states: A Group-Based Approach to Entanglement Preservation | **Mingyuan Wang** | UMass |
+| 4:10–5:00| Piecewise resource-efficient entanglement distribution using a quantum switch | **Kenneth Goodenough** | UMass |
+| 5:00–6:00| Group chat rooms |  |  |
 
 <details>
 <summary>Bio – Leonardo Bacciottini (Quantum Network Utility Maximization)</summary>
@@ -64,17 +64,17 @@ Below is the detailed workshop schedule. Click to expand each day:
 
 | Time | Event | Speaker | Affiliation |
 |------|--------|---------|-------------|
-| 20:30:00–09:20:00 | No Title Available | **Anthony Micciche** | UMass |
-| 09:20:00–10:00:00 | A quantum speedup for localizing transmission loss change in optical networks | **Yufei Zheng** | UMass |
-| 10:00:00–10:40:00 | Error Correction and Job Management in Quantum Servers | **Aparimit Chandra** | UMass |
-| 10:40:00–10:50:00 | Break |  |  |
-| 10:50:00–11:40:00 | Hybrid repeaters with encoding for long distance entanglement distribution | **Stav Haldar** | UMass |
-| 11:40:00–12:20:00 | Compiler for distributed quantum computing: a reinforcement learning approach | **panagiotis.promponas@yale.edu** | Yale |
-| 12:20:00–13:30:00 | Lunch |  |  |
-| 13:30:00–14:20:00 | No Title available | **Robert Niffenegger** | UMass |
-| 14:20:00–15:20:00 | All-photonic quantum networks with GKP qubits | **Ryosuke Shiina** | UMass |
-| 15:20:00–16:10:00 | Group chat rooms |  |  |
-| 16:10:00–16:30:00 | Project presentations |  |  |
+| 8:30–9:20| No Title Available | **Anthony Micciche** | UMass |
+| 9:20–10:00| A quantum speedup for localizing transmission loss change in optical networks | **Yufei Zheng** | UMass |
+| 10:00–10:40| Error Correction and Job Management in Quantum Servers | **Aparimit Chandra** | UMass |
+| 10:40–10:50| Break |  |  |
+| 10:50–11:40| Hybrid repeaters with encoding for long distance entanglement distribution | **Stav Haldar** | UMass |
+| 11:40–12:20| Compiler for distributed quantum computing: a reinforcement learning approach | **Panagiotis Promponas** | Yale |
+| 12:20–1:30| Lunch |  |  |
+| 1:30–2:20| No Title available | **[Robert Niffenegger](https://www.umass.edu/engineering/about/directory/robert-niffenegger)** | UMass |
+| 2:20–3:20| All-photonic quantum networks with GKP qubits | **Ryosuke Shiina** | UMass |
+| 3:20–4:10| Group chat rooms |  |  |
+| 4:10–4:30| Project presentations |  |  |
 
 <details>
 <summary>Bio – Yufei Zheng (A quantum speedup for localizing transmission loss change in optical networks)</summary>
