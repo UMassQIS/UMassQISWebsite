@@ -2,7 +2,9 @@
 title = "Quantum Networking Workshop: Modeling, Applications, Design"
 +++
 
+~~~
 <h1>Quantum Networking Workshop: Modeling, Applications, Design</h1>
+~~~
 
 **Location:** LGRC room A104 (Makerspace classroom)
 
@@ -12,11 +14,12 @@ A two-day workshop on the many layers of the quantum networking technology stack
 
 This will also be the first gathering of external advisors for the [QuantumSavory](https://github.com/QuantumSavory/QuantumSavory.jl/) modeling toolkit.
 
-Below is the (tentative) detailed workshop schedule. Click to expand each day:
+Below is the detailed workshop schedule. Click to expand each day:
 
-
+~~~
 <details>
-<summary><strong>🗓️ Monday, June 2</strong></summary>
+<summary><strong>🗓️ Monday, June 2nd</strong></summary>
+~~~
 
 | Time | Event | Speaker | Affiliation |
 |------|--------|---------|-------------|
@@ -32,6 +35,7 @@ Below is the (tentative) detailed workshop schedule. Click to expand each day:
 | 4:10–5:00| Piecewise resource-efficient entanglement distribution using a quantum switch | **Kenneth Goodenough** | UMass |
 | 5:00–6:00| Group chat rooms |  |  |
 
+~~~
 <details>
 <summary>Bio – Leonardo Bacciottini (Quantum Network Utility Maximization)</summary>
 <p>Leonardo Bacciottini is a postdoctoral researcher at the University of Massachusetts Amherst, working with Prof. Stefan Krastanov, Prof. Don Towsley, and Prof. Gayane Vardoyan. He holds a PhD degree in Computer Science from the University of Florence and University of Pisa. His research interests span across quantum network architectures, protocols, and simulation.</p>
@@ -60,7 +64,8 @@ Below is the (tentative) detailed workshop schedule. Click to expand each day:
 
 
 <details>
-<summary><strong>🗓️ Tuesday, June 3</strong></summary>
+<summary><strong>🗓️ Tuesday, June 3rd</strong></summary>
+~~~
 
 | Time | Event | Speaker | Affiliation |
 |------|--------|---------|-------------|
@@ -75,6 +80,8 @@ Below is the (tentative) detailed workshop schedule. Click to expand each day:
 | 2:20–3:20| All-photonic quantum networks with GKP qubits | **Ryosuke Shiina** | UMass |
 | 3:20–4:10| Group chat rooms |  |  |
 | 4:10–4:30| Project presentations |  |  |
+
+~~~
 
 <details>
 <summary>Bio – Yufei Zheng (A quantum speedup for localizing transmission loss change in optical networks)</summary>
@@ -101,3 +108,4 @@ Below is the (tentative) detailed workshop schedule. Click to expand each day:
 <p>Ryosuke Shiina is a PhD candidate through the Department of Physics at the University of Massachusetts, Amherst. He has been researching under his advisor, Prof. Filip Rozpedek, and has been a graduate student researcher with the Center for Quantum Networks. He is a quantum network architect, and his main area of research is theory relating to quantum network schemes, error correction codes such as GKP-code and Cat code, and graph theory.</p>
 </details>
 </details>
+~~~
