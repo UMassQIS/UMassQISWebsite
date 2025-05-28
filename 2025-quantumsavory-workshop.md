@@ -80,7 +80,7 @@ Below is the detailed workshop schedule. Click to expand each day:
 
 <details>
 <summary>📜 Bio – Panagiotis Promponas (Throughput region of a quantum switch)</summary>
-<p>Paqnagiotis (Panos) is a fifth year PhD student at Yale University working on modeling and optimization of entanglement distribution networks. His research focuses on developing efficient protocols and architectures for quantum communication systems, with an emphasis on scalability and real-world feasibility.</p>
+<p>Panagiotis (Panos) is a fifth year PhD student at Yale University working on modeling and optimization of entanglement distribution networks. His research focuses on developing efficient protocols and architectures for quantum communication systems, with an emphasis on scalability and real-world feasibility.</p>
 </details>
 
 <details>
