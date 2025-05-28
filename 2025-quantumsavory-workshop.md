@@ -68,8 +68,8 @@ Below is the detailed workshop schedule. Click to expand each day:
 | 1:30–2:20| A brief introduction to Sequence | **Caitao Zhan** | Argonne |
 | 2:20–3:10| Modeling with QuantumSavory | **[Stefan Krastanov](https://www.cics.umass.edu/about/directory/stefan-krastanov)** | UMass |
 | 3:10–3:20| Break |  |  |
-| 3:20–4:10| From GHZ to Graph states: A Group-Based Approach to Entanglement Preservation | **Mingyuan Wang** | UMass |
-| 4:10–5:00| Piecewise resource-efficient entanglement distribution using a quantum switch | **Kenneth Goodenough** | UMass |
+| 3:20–4:10| No Title available | **[Robert Niffenegger](https://www.umass.edu/engineering/about/directory/robert-niffenegger)** | UMass |
+| 4:10–5:00| From GHZ to Graph states: A Group-Based Approach to Entanglement Preservation | **Mingyuan Wang** | UMass |
 | 5:00–6:00| Group chat rooms |  |  |
 
 ~~~
@@ -80,7 +80,7 @@ Below is the detailed workshop schedule. Click to expand each day:
 
 <details>
 <summary>Bio – Panagiotis Promponas (Throughput region of a quantum switch)</summary>
-<p>Panagiotis (Panos) is a fifth year PhD student at Yale University working on modeling and optimization of entanglement distribution networks. His research focuses on developing efficient protocols and architectures for quantum communication systems, with an emphasis on scalability and real-world feasibility.</p>
+<p>Paqnagiotis (Panos) is a fifth year PhD student at Yale University working on modeling and optimization of entanglement distribution networks. His research focuses on developing efficient protocols and architectures for quantum communication systems, with an emphasis on scalability and real-world feasibility.</p>
 </details>
 
 <details>
@@ -113,7 +113,7 @@ Below is the detailed workshop schedule. Click to expand each day:
 | 10:50–11:40| Hybrid repeaters with encoding for long distance entanglement distribution | **Stav Haldar** | UMass |
 | 11:40–12:20| Compiler for distributed quantum computing: a reinforcement learning approach | **Panagiotis Promponas** | Yale |
 | 12:20–1:30| Lunch |  |  |
-| 1:30–2:20| No Title available | **[Robert Niffenegger](https://www.umass.edu/engineering/about/directory/robert-niffenegger)** | UMass |
+| 1:30–2:20| Piecewise resource-efficient entanglement distribution using a quantum switch | **Kenneth Goodenough** | UMass |
 | 2:20–3:20| All-photonic quantum networks with GKP qubits | **Ryosuke Shiina** | UMass |
 | 3:20–4:10| Group chat rooms |  |  |
 | 4:10–4:30| Project presentations |  |  |
