@@ -65,7 +65,7 @@ Below is the detailed workshop schedule. Click to expand each day:
 | 11:00–11:50| Throughput region of a quantum switch: comparative analysis under different regimes | **Panagiotis Promponas** | Yale |
 | 11:50–12:40| Learning the best links and paths in quantum networks | **Xuchuang Wang** | UMass |
 | 12:40–1:40| Lunch |  |  |
-| 1:40–2:30| A brief introduction to Sequence | **Caitao Zhan** | Argonne |
+| 1:40–2:30| A brief introduction to SeQUeNCe | **Caitao Zhan** | Argonne |
 | 2:30–3:20| Modeling with QuantumSavory | **[Stefan Krastanov](https://www.cics.umass.edu/about/directory/stefan-krastanov)** | UMass |
 | 3:20–3:30| Break |  |  |
 | 3:30–4:20| No Title available | **[Robert Niffenegger](https://www.umass.edu/engineering/about/directory/robert-niffenegger)** | UMass |
@@ -86,6 +86,11 @@ Below is the detailed workshop schedule. Click to expand each day:
 <details>
 <summary>📜 Bio – Xuchuang Wang (Learning the best links and paths in quantum networks)</summary>
 <p>Xuchuang Wang is a postdoctoral researcher in the College of Information and Computer Sciences at the University of Massachusetts Amherst, where he collaborates closely with Professors Don Towsley and Mohammad Hajiesmaili on cutting‑edge projects in quantum networks and multi-agent learning systems.</p>
+</details>
+
+<details>
+<summary>📜 Bio – Caitao Zhan (A brief introduction to SeQUeNCe)</summary>
+<p>Caitao Zhan is a postdoc at Argonne National Laboratory, working with Rajkumar Kettimuthu. At Argonne, he works on the quantum network simulator SeQUeNCe and various topics in quantum networks. He completed his PhD in the Department of Computer Science at Stony Brook University, where he was advised by Professor Himanshu Gupta. During his PhD, he first worked on wireless networks, and later on switched to quantum networks.</p>
 </details>
 
 <details>
